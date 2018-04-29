@@ -14,6 +14,8 @@ Master-Browser_ is currently supported only on Android. For other operating syst
 # Supported versions
 Tested till Android API Level-25(Nougat v7.1.2) and works fine!, don't know if it will work on Oreo and its followed-after versions.
 
+Minimum Android version: 4.x+
+
 # Installation
 - # Download from Github and Install
 - If you want to download the apk from Github, go to build, then select the version you want and download the apk from release folder.
