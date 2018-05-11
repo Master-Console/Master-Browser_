@@ -18,7 +18,7 @@ Minimum Android version: 4.x+
 
 # Installation
 - # Download from Github and Install
-- If you want to download the apk from Github, go to build, then select the version you want and download the apk from release folder.
+- If you want to download the apk from Github, go to build, then select the version you want and download the apk from release folder or go to https://github.com/Master-Console/Master-Browser_/releases
 - # Download from our Website and Install
 - If you want to download the apk from our Website, first Visit [Our Website](http://www.masterconsoleblog.wordpress.com)'s Download page and download the apk from there and install. Make sure its the latest one.
 
