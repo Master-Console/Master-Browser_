@@ -1,4 +1,11 @@
 # Master-Browser_
+<p align="center">
+<a href="https://github.com/Master-Console/Master-Browser_/releases" alt="Github release"><img src="https://img.shields.io/github/release/Master-Console/Master-Browser_.svg" /></a>
+<a href="https://www.apache.org/licenses/LICENSE-2.0" alt="License: Apache License v2.0"><img src="https://img.shields.io/badge/License-Apache%20v2-orange.svg" /></a>
+<a href="https://github.com/Master-Console/Master-Browser_/blob/master/build/v1.0.4/Debug/app-debug.apk" alt="Build: Success"><img src="https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg" /></a>
+<a href="https://masterconsoleblog.wordpress.com" alt="Website"><img src="https://img.shields.io/badge/Visit-website-lightgrey.svg" /></a>
+<a href="https://masterconsole000.wixsite.com/masterconsoleforum" alt="Forum"><img src="https://img.shields.io/badge/Visit-forum-lightgrey.svg" /><a>
+</p>
 Master-Browser_ is an simple yet enough mastered browser that is fast and simple which works on Android. Contributed by @Yet-Zio
 
 Master-Browser_ is an Android Application which was created by Yet Zio and owned by him and his Organisation-Master-Console_. Master-Browser is licensed under the Apache License which is a permissive free software license written by the Apache Software Foundation, [Know More](https://en.wikipedia.org/wiki/Apache_License).
