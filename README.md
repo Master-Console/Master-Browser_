@@ -1,4 +1,6 @@
-# Master-Browser_
+# Master-Browser_(Discontinued/Archived)
+This was just when i was starting to develop apps for android, thus it lacks some essential features, ui and since i don't have enough time
+for its development, i am archiving this repo. But don't be sad, maybe i could develop Master-Browser_ v2.
 <p align="center">
 <a href="https://github.com/Master-Console/Master-Browser_/releases" alt="Github release"><img src="https://img.shields.io/github/release/Master-Console/Master-Browser_.svg" /></a>
 <a href="https://www.apache.org/licenses/LICENSE-2.0" alt="License: Apache License v2.0"><img src="https://img.shields.io/badge/License-Apache%20v2-orange.svg" /></a>
